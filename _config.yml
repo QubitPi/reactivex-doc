@@ -1,4 +1,6 @@
 name: ReactiveX
+destination: "_site/reactivex-docs"
+url: "https://reactivex.qubitpi.org"
 markdown: kramdown
 kramdown:
    input: GFM
